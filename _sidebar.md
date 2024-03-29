@@ -24,6 +24,4 @@
 
 * [6: Step 6](step6.md)
 
-* [Quellen](/licenses/sources.md)
-
 * [Kontakt](/contact/index.md)
